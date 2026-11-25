@@ -33,3 +33,4 @@ part after `#` is its key, and that key is never stored here or in any file.
 | `desks/2026-11-25_AL-PPT/DESK-AIL-PPT_2026-11-25_SEALED.html` | sealed desk, Proofread Desk SOC332-Presentation_Chemeli_A-draft.pptx R26 | `DESK-AIL-PPT_2026-11-25.html` |
 | `desks/2026-11-25_AL-PPT/DESK-FUN-PPT_2026-11-25_SEALED.html` | sealed desk, Proofread Desk SOC332-Presentation_Nyaucho_F-draft.pptx R27 | `DESK-FUN-PPT_2026-11-25.html` |
 | `desks/2026-11-25_AL-PPT/DESK-GRA-PPT_2026-11-25_SEALED.html` | sealed desk, Proofread Desk SOC332-Presentation_Njoroge_G-draft.pptx R28 | `DESK-GRA-PPT_2026-11-25.html` |
+| `desks/2026-11-25_AL-PPT/DESK-AUG-PPT_2026-11-25_SEALED.html` | sealed desk, Proofread Desk SOC332-Presentation_Chukwuemeka_A-draft.pptx R29 | `DESK-AUG-PPT_2026-11-25.html` |
